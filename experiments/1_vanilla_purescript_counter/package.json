@@ -1,0 +1,19 @@
+{
+  "name": "2_button_counter_refactored",
+  "version": "1.0.0",
+  "description": "Site with a button that displays a counter of how many times button has been clicked.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "^0.23.1",
+    "http-server": "^14.1.1"
+  }
+}
