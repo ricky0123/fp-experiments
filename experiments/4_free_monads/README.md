@@ -1,0 +1,1 @@
+I wrote this to practice using free monads by creating a free-monad-based DSL for defining and sampling from a probability distribution that can be expressed as a mixture/sum/etc of other distrubutions.
